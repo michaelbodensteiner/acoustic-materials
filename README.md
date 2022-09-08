@@ -10,7 +10,10 @@ Each item was catagorized in Tableau in order to filter by product brand.
 
 The cost effectiveness of each material is decribed here as the product value.
 
-<img width="1000" alt="ProductValue" src="https://user-images.githubusercontent.com/80362935/186298118-4abe3801-95f4-454b-a27f-fd389298bdb1.png">
+<img width="1000" alt="ProductValue" src="https://user-images.githubusercontent.com/80362935/189234086-2da8de93-7e23-4e3a-8e34-f3a539183830.png">
+
+
+
 
 ## Data Source
 This dashboard was created using the sound absorbtion coefficient values made available from ATS Acoustics. The data was scraped from [this page](https://www.atsacoustics.com/page--Selecting-the-Right-Acoustic-Material--ac.html).
